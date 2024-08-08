@@ -1,0 +1,35 @@
+package com.java.testenca;
+
+import com.jav.tectConstrcu.Person;
+
+public class TestEncap {
+
+	
+	public static void main(String[] args) {
+		
+		Person person=new Person();
+		person.call();
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+//	TestEncap encap=new TestEncap();
+//	encap.call();
+	
+	
+//	
+//	private void call() {  //access to all 
+//		//inside the project 
+//		
+//		System.out.println("I will be called in main");
+//	}	
+//	
+	
+	
+}

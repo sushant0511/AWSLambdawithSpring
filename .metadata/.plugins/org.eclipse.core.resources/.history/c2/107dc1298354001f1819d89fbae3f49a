@@ -1,0 +1,27 @@
+package call;
+
+import java.util.Scanner;
+
+public class SumofDigit {
+
+	public static void main(String[] args) {
+		
+		int num;
+		Scanner scanner=new Scanner(System.in);
+		System.out.println("Enter number");
+		num=scanner.nextInt();
+		int a,sum=0;  
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+}

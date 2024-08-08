@@ -1,0 +1,13 @@
+package call;
+
+import java.util.Scanner;
+
+public class RangeTest {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Enter your range");
+		Scanner scanner=new Scanner(System.in);
+		
+	}
+}

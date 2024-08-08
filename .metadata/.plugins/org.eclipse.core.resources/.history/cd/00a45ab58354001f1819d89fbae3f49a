@@ -1,0 +1,33 @@
+package call;
+
+import java.util.Scanner;
+
+public class SumofDigit {
+
+	public static void main(String[] args) {
+		
+		int num;
+		Scanner scanner=new Scanner(System.in);
+		System.out.println("Enter number");
+		num=scanner.nextInt();//567
+		int a,sum=0;  //
+		a=num%10; 
+		sum=sum+a;
+		System.out.println("a="+a+" sum="+sum);
+		a=num%10; 
+		sum=sum+a;
+		System.out.println("a="+a+" sum="+sum);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+}
